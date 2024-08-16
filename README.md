@@ -1,7 +1,7 @@
 # IDVE-Assignments
 
 ## Group Members
-* Lisa Godiwn - 2437980
+* Lisa Godwin - 2437980
 * Nihal Ranchod - 2427378
 * Zach Schwark - 2434346
 
