@@ -1,8 +1,8 @@
 - calculated and filled in missing values of gallons, miles and mpg in 1.2.2
-- why do we need too drop the null values of these again in the cell after the box plots 
+- why do we need to drop the null values of these again in the cell after the box plots 
 - rather why dont we drop the missing values before the box plots and before the distributions
 
-- it must be noted that the removal of null values and outliers are not perfoemd on "updated_df" and are only on the new dataframes that are created
+- it must be noted that the removal of null values and outliers are not perfoemd on "updated_df" and are only on the new dataframes that are created - I dont know if this is intentional or not
 
 - keeping in mind the above point, for the cell/ question 1.2.5: when "updated_df.describe()" is used, this updated_df data frame does not have the outliers removed...so the statistical description will be wrong. 
 
@@ -10,11 +10,6 @@
 
 - basically just worried about consistency, if we removed the outliers for the distrabutions, then the statistical description must ob with outliers removed. and visa versa
 
-- We should also change the extract car details function to the one I fixed. 
-
-- On the US gallons vs UK gallons. 
-    - using the predominant currency, doesnt necessarily mean that that we should use that values
-    - ie, more people can be from  the US, but the company from where the data came from can be based in the UK and therefore we should have used UK gallons.
 
 - unique users :
      - when do you guys want to drop the duplicates ... it needs to be done but where.
