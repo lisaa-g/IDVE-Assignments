@@ -8,3 +8,5 @@
 ### Assignment 1: [Assignment 1 PDF](./Assignment%201/Assignment_1.pdf)
 
 ### Assignment 2: [Assignment 2 PDF](./Assignment%202/Assignment_2.pdf)
+
+### Assignment 3: [Assignment 3 PDF](./Assignment%203/Assignment_3.pdf)
